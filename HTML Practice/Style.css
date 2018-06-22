@@ -1,0 +1,23 @@
+/* This is applying my learning blue color */
+P {
+	color:aliceblue;
+	font-size: 13px;
+}
+body	{
+	background:black url("images/karthi.png") no-repeat;
+}
+div{
+	background-color:aquamarine;
+}
+#Cssexample	{	
+	color: blueviolet;
+}
+h1, h2, p{
+	color: red;
+	text-align: center;
+}
+
+	
+
+
+/* this is a multi line comment */
